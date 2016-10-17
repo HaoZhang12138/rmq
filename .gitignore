@@ -1,0 +1,6 @@
+*.iml
+src/github.com/
+src/gopkg.in/
+src/main
+.idea/
+
